@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">INTENT EXXPLICIT APP</string>
+    <string name="Add_Number">ADD NUMBER</string>
+    <string name="Add_Text">ADD TEXT</string>
+    <string name="Kalkulator">CALCULATOR RUANG</string>
+    <string name="judul">Hitung Luas dan Volume Kubus</string>
+    <string name="sisi">Sisi (cm)</string>
+    <string name="hint_sisi">Masukkan Sisi...</string>
+    <string name="luas">Luas</string>
+    <string name="volume">Volume</string>
+    <string name="reset">Reset</string>
+    <string name="hasil">Hasil</string>
+    <string name="satu">0</string>
+    <string name="add_number">ADD Number</string>
+    <string name="halo">HALLO</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="proses">SUBMIT</string>
+    <string name="created">createdby Rizky Pertiwi_6304201271</string>
+
+</resources>
